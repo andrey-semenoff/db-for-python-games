@@ -1,0 +1,10 @@
+{
+  questions: [
+    {
+      id: 1,
+      text: 'Text',
+      answer: 'Answer',
+      score: 1
+    }
+  ]
+}
