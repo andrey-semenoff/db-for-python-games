@@ -2,9 +2,123 @@
   "questions": [
     {
       "id": 1,
-      "text": "Text",
-      "answer": "Answer",
+      "text": "Wie viele Bundesländer hat Deutachland?",
+      "answer": "16",
       "score": 1
-    }
+    },
+    {
+      "id": 2,
+      "text": "Was ist das größte Bundesland (in Landmasse)?",
+      "answer": "Bayern",
+      "score": 3
+    },
+    {
+      "id": 3,
+      "text": "Welches Bundesland hat die wenigsten Einwohner?",
+      "answer": "Bremen",
+      "score": 4
+    },
+    {
+      "id": 4,
+      "text": "Was ist die Hauptstadt von Rheinland-Pfalz?",
+      "answer": "Mainz",
+      "score": 3
+    },
+    {
+      "id": 5,
+      "text": "Welches Bundesland produziert viel Milch?",
+      "answer": "Schleswig-Holstein",
+      "score": 3
+    },
+    {
+      "id": 6,
+      "text": "Welches Bundesland umringt Berlin?",
+      "answer": "Brandenburg",
+      "score": 3
+    },
+    {
+      "id": 7,
+      "text": "In welchem Bundesland gibt es viele Bäume und Wälder?",
+      "answer": "Thüringen",
+      "score": 3
+    },
+    {
+      "id": 8,
+      "text": "Was ist die Hauptstadt von Sachsen?",
+      "answer": "Dresden",
+      "score": 3
+    },
+    {
+      "id": 9,
+      "text": "Schwerin ist die Hauptstadt von ...?",
+      "answer": "Mecklenburg-Vorpommern",
+      "score": 3
+    },
+    {
+      "id": 10,
+      "text": "Was ist die Hauptstadt von Sachsen-Anhalt?",
+      "answer": "Magdeburg",
+      "score": 3
+    },
+    {
+      "id": 11,
+      "text": "Saarbrücke ist die Hauptstadt von ...?",
+      "answer": "Saarland",
+      "score": 3
+    },
+    {
+      "id": 12,
+      "text": "Was ist die Hauptstadt von Niedersachsen?",
+      "answer": "Hannover",
+      "score": 3
+    },
+    {
+      "id": 13,
+      "text": "Düsseldorf ist die Hauptstadt von ...?",
+      "answer": "Nordrhein-Westfallen",
+      "score": 3
+    },
+    {
+      "id": 14,
+      "text": "Was ist die Hauptstadt von Hessen?",
+      "answer": "Wiesbaden",
+      "score": 3
+    },
+    {
+      "id": 15,
+      "text": "Hamburg ist die Hauptstadt von ...?",
+      "answer": "Hamburg",
+      "score": 3
+    },
+    {
+      "id": 16,
+      "text": "Was ist die Hauptstadt von Thüringen?",
+      "answer": "Erfurt",
+      "score": 3
+    },
+    {
+      "id": 17,
+      "text": "Was ist die Hauptstadt von Schleswig-Holstein?",
+      "answer": "Kiel",
+      "score": 3
+    },
+    {
+      "id": 18,
+      "text": "Was ist die Hauptstadt von Bayern?",
+      "answer": "München",
+      "score": 3
+    },
+    {
+      "id": 19,
+      "text": "Was ist die Hauptstadt von Brandenburg?",
+      "answer": "Potsdam",
+      "score": 3
+    },
+    {
+      "id": 20,
+      "text": "Was ist die Hauptstadt von Bremen?",
+      "answer": "Bremen",
+      "score": 3
+    },
   ]
 }
