@@ -39,7 +39,7 @@
       "text": "Welches Bundesland produziert viel Milch?",
       "type": "text",
       "answer": "Schleswig-Holstein",
-      "score": 3
+      "score": 5
     },
     {
       "id": 6,
@@ -58,7 +58,13 @@
     {
       "id": 8,
       "text": "Was ist die Hauptstadt von Sachsen?",
-      "type": "text",
+      "type": "options",
+      "options": [
+        "Sachsenburg",
+        "Sachsische Schweiz",
+        "Magdeburg",
+        "Dresden"
+      ],
       "answer": "Dresden",
       "score": 3
     },
@@ -71,10 +77,10 @@
     },
     {
       "id": 10,
-      "text": "Was ist die Hauptstadt von Sachsen-Anhalt?",
-      "type": "text",
-      "answer": "Magdeburg",
-      "score": 3
+      "text": "Magdeburg ist die Hauptstadt von Sachsen-Anhalt?",
+      "type": "yesno",
+      "answer": "yes",
+      "score": 2
     },
     {
       "id": 11,
@@ -86,23 +92,29 @@
     {
       "id": 12,
       "text": "Was ist die Hauptstadt von Niedersachsen?",
-      "type": "text",
+      "type": "options",
+      "options": [
+        "Hannover",
+        "Niederland",
+        "Niederburg",
+        "Hamburg"
+      ],
       "answer": "Hannover",
       "score": 3
     },
     {
       "id": 13,
-      "text": "Düsseldorf ist die Hauptstadt von ...?",
-      "type": "text",
-      "answer": "Nordrhein-Westfallen",
-      "score": 3
+      "text": "Düsseldorf ist die Hauptstadt von Rheinland-Pfalz?",
+      "type": "yesno",
+      "answer": "no",
+      "score": 1
     },
     {
       "id": 14,
-      "text": "Was ist die Hauptstadt von Hessen?",
-      "type": "text",
-      "answer": "Wiesbaden",
-      "score": 3
+      "text": "Wiesbaden ist die Hauptstadt von Hessen?",
+      "type": "yesno",
+      "answer": "no",
+      "score": 2
     },
     {
       "id": 15,
@@ -121,7 +133,13 @@
     {
       "id": 17,
       "text": "Was ist die Hauptstadt von Schleswig-Holstein?",
-      "type": "text",
+      "type": "options",
+      "options": [
+        "Schleswig",
+        "Kiel",
+        "Holstein",
+        "Klein"
+      ],
       "answer": "Kiel",
       "score": 3
     },
@@ -134,15 +152,21 @@
     },
     {
       "id": 19,
-      "text": "Was ist die Hauptstadt von Brandenburg?",
-      "type": "text",
-      "answer": "Potsdam",
+      "text": "Potsdam ist die Hauptstadt von Brandenburg?",
+      "type": "yesno",
+      "answer": "yes",
       "score": 3
     },
     {
       "id": 20,
-      "text": "Was ist die Hauptstadt von Bremen?",
-      "type": "text",
+      "text": "Bremen ist die Hauptstadt von ...?",
+      "type": "options",
+      "options": [
+        "Niedersachsen",
+        "Schlesweig-Holstein",
+        "Hessen",
+        "Bremen"
+      ],
       "answer": "Bremen",
       "score": 3
     }
